@@ -3,7 +3,13 @@
 The run shell for the whole tool, which is a user accessible command used to call all other sub commands.
 ---------------------------------------------------------------------------------------------------------
 Sub commands this tool supports:
-
+	-- env build up: build
+	-- filelist generating: fgen
+	-- compile: comp
+	-- simulation: sim
+	-- wave vision operation: wave
+	-- coverage operation: cov
+	--
 ---------------------------------------------------------------------------------------------------------
 The interfaces we should defined here:
 
